@@ -1,0 +1,67 @@
+{
+    "header": {
+        "shop": "Shop",
+        "selectedLanguage": "Selected Language",
+        "profile": "Profile",
+        "logout": "Logout",
+        "register": "Register",
+        "login": "Login",
+        "yourCredit": "Your Credit",
+        "yourCart": "Your Cart",
+        "hello": "Hello"
+    },
+    "productOverview": {
+        "title": "Product Overview"
+    },
+    "cart": {
+        "title": "Shopping Cart",
+        "total": "Total",
+        "buy": "Buy",
+        "clear": "Clear Cart",
+        "empty": "No items in cart",
+        "successTitle": "Success!",
+        "purchaseSuccess": "Purchase completed",
+        "productRemoved": "Product removed from cart!",
+        "cleared": "Cart cleared!",
+        "addedToCart": "Product added to cart!",
+        "addToCart": "Add to cart",
+        "imageAlt": "product image",
+        "remove": "remove product",
+        "increase": "increase amount",
+        "decrease": "decrease amount"
+    },
+    "login": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "submit": "Log in",
+        "registerPrompt": "Not registered yet",
+        "registerButton": "Register now"
+    },
+    "register": {
+        "title": "Register",
+        "forename": "First name",
+        "surname": "Last name",
+        "email": "Email:",
+        "password": "Password:",
+        "submit": "Create account",
+        "accountExists": "Already have an account?",
+        "toLogin": "Go to login"
+    },
+    "validation": {
+        "emailInvalid": "Please enter a valid email address.",
+        "emailRequired": "Email is required.",
+        "passwordRequired": "Password is required.",
+        "passwordMin": "Password must be at least 6 characters long.",
+        "forenameRequired": "First name is required.",
+        "surnameRequired": "Last name is required.",
+        "singleId": "Route param id must be a single value",
+        "invalidId": "Invalid product id"
+    },
+    "errors": {
+        "User does not have enough Credit": "User does not have enough Credit",
+        "Product is no longer available": "Product is no longer available",
+        "Product does not exist": "Product not existing",
+        "default": "An unknown error occurred."
+    }
+}

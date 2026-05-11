@@ -1,0 +1,37 @@
+# Nuxt build output
+.nuxt/
+dist/
+
+# Node modules
+node_modules/
+
+# Lockfiles und Env-Dateien
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.env
+.env.*
+
+# Static assets (optional)
+public/
+static/
+
+# VS Code Settings (optional)
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Optional: IDE configs
+.idea/
+.DS_Store
+
+# Optional: JSON oder config-Dateien, die du von Prettier ausschließen willst
+*.svg
+*.png
+*.jpg
+*.ico
+
+# Optional: spezielle Dateien, die oft extern formatiert werden
+*.min.js

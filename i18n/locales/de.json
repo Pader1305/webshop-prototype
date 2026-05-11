@@ -1,0 +1,67 @@
+{
+    "header": {
+        "shop": "Shop",
+        "selectedLanguage": "Ausgewählte Sprache",
+        "profile": "Profil",
+        "logout": "Abmelden",
+        "register": "Registrieren",
+        "login": "Anmelden",
+        "yourCredit": "Dein Guthaben",
+        "yourCart": "Dein Warenkorb",
+        "hello": "Hallo"
+    },
+    "productOverview": {
+        "title": "Produktübersicht"
+    },
+    "cart": {
+        "title": "Warenkorb",
+        "total": "Summe",
+        "buy": "Kaufen",
+        "clear": "Warenkorb leeren",
+        "empty": "Keine Waren im Warenkorb",
+        "successTitle": "Erfolgreich!",
+        "purchaseSuccess": "Kauf abgeschlossen",
+        "productRemoved": "Produkt aus Warenkorb entfernt!",
+        "cleared": "Warenkorb geleert!",
+        "addedToCart": "Produkt zum Warenkorb hinzugefügt!",
+        "addToCart": "In den Warenkorb",
+        "imageAlt": "Produktbild",
+        "remove": "Produkt entfernen",
+        "increase": "Anzahl erhöhen",
+        "decrease": "Anzahl verringern"
+    },
+    "login": {
+        "title": "Einloggen",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "submit": "Einloggen",
+        "registerPrompt": "Noch nicht registriert",
+        "registerButton": "Jetzt registrieren"
+    },
+    "register": {
+        "title": "Registrieren",
+        "forename": "Vorname",
+        "surname": "Nachname",
+        "email": "E-Mail:",
+        "password": "Passwort:",
+        "submit": "Konto anlegen",
+        "accountExists": "Du hast schon einen Account?",
+        "toLogin": "Zur Anmeldung"
+    },
+    "validation": {
+        "emailInvalid": "Bitte gib eine gültige E-Mail-Adresse ein.",
+        "emailRequired": "E-Mail darf nicht leer sein.",
+        "passwordRequired": "Passwort darf nicht leer sein.",
+        "passwordMin": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+        "forenameRequired": "Vorname darf nicht leer sein.",
+        "surnameRequired": "Nachname darf nicht leer sein.",
+        "singleId": "Nur eine Produkt-Id ist erlaubt",
+        "invalidId": "Ungültige Produkt-Id"
+    },
+    "errors": {
+        "User does not have enough Credit": "Du hast nicht genügend Guthaben.",
+        "Product is no longer available": "Dieses Produkt ist nicht mehr verfügbar.",
+        "Product does not exist": "Dieses Produkt existiert nicht",
+        "default": "Ein unbekannter Fehler ist aufgetreten."
+    }
+}

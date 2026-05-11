@@ -1,0 +1,5 @@
+name: Run Linters
+on: push
+jobs:
+    linters:
+        uses: basecom/academy-linters/.github/workflows/nuxt-linters.yml@Update-nuxt-linters.yml
